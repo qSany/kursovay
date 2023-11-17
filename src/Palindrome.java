@@ -1,6 +1,6 @@
 public class Palindrome {
     public static void main(String[] args) {
-        String input = "racecar";
+        String input = "Итог:" ;
 
         if(isPalindrome(input)) {
             System.out.println(input + " полиндром.");

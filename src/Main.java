@@ -13,6 +13,7 @@ public class Main {
             System.out.println(employee.toString());
         }
 
+
         // 2. Посчитать сумму затрат на зарплаты в месяц
         double totalSalaryExpenses = calculateTotalSalaryExpenses(employees);
         System.out.println("Total salary expenses per month: " + totalSalaryExpenses);

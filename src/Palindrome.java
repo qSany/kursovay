@@ -15,6 +15,5 @@ public class Palindrome {
 
         return sb.toString().equals(input);
 
-
     }
 }

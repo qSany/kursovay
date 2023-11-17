@@ -39,6 +39,7 @@ public class Main {
         }
     }
 
+
     public static double calculateTotalSalaryExpenses(Employee[] employees) {
         double totalSalaryExpenses = 0.0;
         for (Employee employee : employees) {
